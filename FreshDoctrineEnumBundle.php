@@ -19,4 +19,5 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
  */
 class FreshDoctrineEnumBundle extends Bundle
 {
+	
 }
